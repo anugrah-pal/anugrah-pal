@@ -11,7 +11,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFhenRqeno1cHRwemFkM3BidDhxbGsycGxlZTM4YWhmc2FxaG9seCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTc1MHJuanE3eno5MTZhb2I0eWlyYno5ZGsyYjlldWg5bzBtdXk4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
 
 ###
@@ -58,6 +58,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anugrah-pal/anugrah-pal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anugrah-pal/anugrah-pal/output/pacman-contribution-graph.svg">
@@ -66,20 +68,12 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anugrah-pal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anugrah-pal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=anugrah-pal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=anugrah-pal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anugrah-pal&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ie3id6gqo5fbbj9j8yivcuczs">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ie3id6gqo5fbbj9j8yivcuczs&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
