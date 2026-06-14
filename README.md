@@ -4,17 +4,9 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <h1 align="center">Hey there! Thanks for stopping by my GitHub.</h1>
-
-###
-
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTc1MHJuanE3eno5MTZhb2I0eWlyYno5ZGsyYjlldWg5bzBtdXk4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
@@ -34,7 +26,7 @@
 
 ###
 
-<p align="left">Hi! I'm a Computer Science student passionate about learning and building with technology.  <br>I enjoy turning ideas into real projects and improving myself a little every day.<br><br>💻 Currently exploring:<br>- Web Development<br>- Java & Data Structures<br>- Artificial Intelligence<br>- Linux & Cyber Security<br><br>🎯 Goals:<br>- Become a strong problem solver<br>- Build impactful projects<br>- Grow consistently and stay curious<br><br>📌 This GitHub is my learning journal — classwork, practice, and experiments.</p>
+<p align="left">Hi! I'm a Computer Science student passionate about learning and building with technology.  <br>I enjoy turning ideas into real projects and improving myself a little every day.<br><br>💻 Current Focus:<br><br>- Full Stack Development<br>- Open Source<br>- Java & Data Structures<br>- Artificial Intelligence<br>- System Design<br><br>🎯 Goals:<br><br>- Become a strong problem solver<br>- Build impactful projects<br>- Grow consistently and stay curious<br><br>Academic Highlights: <br><br><ul><li>🎯 JEE Mains: 96.41 percentile</li><li>📚 12th Grade: 94%</li><li>🏆 10th Grade: 97.6%</li><br><br>📌 This GitHub is my learning journal — classwork, practice, and experiments.</p>
 
 ###
 
@@ -58,13 +50,13 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anugrah-pal/anugrah-pal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anugrah-pal/anugrah-pal/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anugrah-pal/anugrah-pal/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
@@ -72,7 +64,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anugrah-pal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=anugrah-pal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=anugrah-pal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anugrah-pal&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
