@@ -161,7 +161,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anugrah-pal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anugrah-pal&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://ghchart.rshah.org/bd93f9/anugrah-pal" alt="Anugrah's GitHub Contribution Chart" />
 </div>
 <br>
 
