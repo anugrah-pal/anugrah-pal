@@ -6,27 +6,118 @@
 
 <!-- <br clear="both"> -->
 
-<h1 align="center">Hey there! Thanks for stopping by my GitHub.</h1>
+<h1 align="center">Hey there! Thanks for stopping by my GitHub. 👋</h1>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="50" alt="netlify logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
 </div>
 
 ###
 
-<p align="left">Hi! I'm a Computer Science student passionate about learning and building with technology.  <br>I enjoy turning ideas into real projects and improving myself a little every day.<br><br><b>🔶 CURRENT FOCUS:</b><br><br>- Full Stack Development<br>- Open Source<br>- Java & Data Structures<br>- Artificial Intelligence<br>- System Design<br><br><b>🔶 GOALS:</b><br><br>- Become a strong problem solver<br>- Build impactful projects<br>- Grow consistently and stay curious<br><br><b>🔶 ACADEMIC HIGHLIGHTS:</b><br><ul><li>🎯 JEE Mains: 96.41 percentile</li><li>📚 12th Grade: 94%</li><li>🏆 10th Grade: 97.6%</li><br><br>📌 This GitHub is my learning journal — classwork, practice, and experiments.</p>
+<p align="left">
+Hi! I'm <b>Anugrah Pal</b> — a Computer Science student, Aspiring Software Engineer, and Full Stack Developer. <br><br>
+I enjoy solving problems, designing scalable software, and building real-world applications. I am currently focused on strengthening my skills in Full Stack Development, System Design, and Data Structures & Algorithms while continuously learning modern software engineering practices.
+<br><br>
+<b>🚀 CURRENTLY WORKING ON:</b>
+<ul>
+  <li>Building Full Stack MERN Applications</li>
+  <li>Solving LeetCode Daily (Java)</li>
+  <li>Learning Low Level Design (LLD)</li>
+  <li>Learning System Design</li>
+  <li>Exploring Machine Learning</li>
+  <li>Contributing to Open Source</li>
+</ul>
+<br>
+<b>🎯 GOALS:</b>
+<ul>
+  <li>Become a skilled Full Stack Software Engineer</li>
+  <li>Master Data Structures & Algorithms</li>
+  <li>Build scalable SaaS products</li>
+  <li>Become proficient in System Design</li>
+  <li>Contribute consistently to Open Source</li>
+  <li>Build AI-powered real-world applications</li>
+  <li>Keep learning and shipping projects</li>
+</ul>
+<br>
+<b>📚 CURRENT LEARNING PATH:</b>
+<ul>
+  <li>MERN Stack</li>
+  <li>Java</li>
+  <li>System Design</li>
+  <li>DSA</li>
+  <li>Machine Learning</li>
+  <li>Open Source</li>
+</ul>
+<br>
+<b>⚡ CURRENTLY BUILDING & LEARNING:</b>
+<ul>
+  <li><b>Currently Building:</b> Full Stack MERN Applications & Java LLD Implementations</li>
+  <li><b>What I'm Learning:</b> System Design, Advanced React & Machine Learning</li>
+  <li><b>2026 Goals:</b> Master System Design & Advanced DSA, ship production-ready applications</li>
+  <li><b>💡 Fun Fact:</b> I love turning complex logic into clean code and debugging with a hot cup of coffee!</li>
+</ul>
+<br>
+<b>💻 FEATURED PROJECTS:</b>
+<ul>
+  <li><b>MERN Projects:</b> Full-stack web applications featuring dynamic frontends, REST APIs, and database integration built with MongoDB, Express, React, and Node.js.</li>
+  <li><b>Java Low Level Design:</b> Object-Oriented Programming (OOP), SOLID Principles, and design pattern implementations in Java.</li>
+  <li><b>LeetCode:</b> Daily Java solutions with optimized time/space complexity analysis and interview-focused problem solving.</li>
+  <li><b>Machine Learning:</b> Hands-on machine learning experiments, predictive modeling, and mini projects using Python.</li>
+  <li><b>Tapovan Premier League Auction System:</b> Interactive real-time player bidding and auction management platform.</li>
+  <li><b>Portfolio Website (Coming Soon):</b> Personal showcase platform highlighting my projects, skills, and engineering journey.</li>
+</ul>
+<br>
+<b>📂 SUGGESTED REPOSITORY STRUCTURE:</b>
+<ul>
+  <li><code>Java-DSA</code> — Daily Java solutions with optimized approaches, explanations, and interview-focused problem solving.</li>
+  <li><code>Java-LLD</code> — Java implementations of Object-Oriented Programming, SOLID Principles, and Low Level Design concepts.</li>
+  <li><code>MERN-Projects</code> — Full-stack web applications with complete MERN stack architectures.</li>
+  <li><code>Machine-Learning</code> — Hands-on implementations, experiments, and mini projects using Python.</li>
+  <li><code>Portfolio</code> — Personal showcase website code and interactive project demos.</li>
+  <li><code>Open-Source</code> — Contributions, bug fixes, and feature enhancements for open-source repositories.</li>
+  <li><code>System-Design-Notes</code> — Architectural notes, diagrams, and trade-off analyses for system scalability.</li>
+</ul>
+<br>
+📌 This GitHub is my learning journal — classwork, practice, and real-world experiments.
+</p>
 
 ###
 
@@ -50,21 +141,10 @@
 
 ###
 
-<!-- <br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anugrah-pal/anugrah-pal/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anugrah-pal/anugrah-pal/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anugrah-pal/anugrah-pal/output/pacman-contribution-graph.svg">
-</picture> -->
-
-###
-
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anugrah-pal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br><br>
-  <!-- <img src="https://github-profile-trophy.vercel.app?username=anugrah-pal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anugrah-pal&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <br>
