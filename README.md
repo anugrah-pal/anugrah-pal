@@ -6,7 +6,26 @@
 
 <!-- <br clear="both"> -->
 
-<h1 align="center">Hey there! Thanks for stopping by my GitHub. 👋</h1>
+<h1 align="center">Hi, I'm Anugrah Pal 👋</h1>
+<h3 align="center">Aspiring Software Engineer • Full Stack Developer • Java Enthusiast</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Full+Stack+Applications;Learning+MERN+Stack;Solving+DSA+Daily;Learning+System+Design;Building+AI+Projects;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <p align="center">
+    I'm a Computer Science student passionate about building real-world software, solving challenging problems, and continuously improving my engineering skills.
+    <br><br>
+    Currently learning <b>MERN Stack</b>, <b>Java</b>, <b>System Design</b>, <b>Low Level Design</b>, <b>AI</b>, and <b>Data Structures & Algorithms</b>.
+  </p>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
@@ -53,9 +72,6 @@
 ###
 
 <p align="left">
-Hi! I'm <b>Anugrah Pal</b> — a Computer Science student, Aspiring Software Engineer, and Full Stack Developer. <br><br>
-I enjoy solving problems, designing scalable software, and building real-world applications. I am currently focused on strengthening my skills in Full Stack Development, System Design, and Data Structures & Algorithms while continuously learning modern software engineering practices.
-<br><br>
 <b>🚀 CURRENTLY WORKING ON:</b>
 <ul>
   <li>Building Full Stack MERN Applications</li>
