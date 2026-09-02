@@ -1,13 +1,6 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FFFFFF"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Anugrah%20Pal&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&animation=twinkling&color=0:0d1117,30:1a3a5c,70:0e4429,100:0d1117&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Java%20Enthusiast&descSize=16&descAlign=50&descAlignY=55&stroke=36BCF7&strokeWidth=1"  />
 </div>
-
-###
-
-<!-- <br clear="both"> -->
-
-<h1 align="center">Hi, I'm Anugrah Pal 👋</h1>
-<h3 align="center">Aspiring Software Engineer • Full Stack Developer • Java Enthusiast</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
