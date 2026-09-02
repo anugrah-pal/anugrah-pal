@@ -153,6 +153,11 @@
 <!-- <br clear="both"> -->
 
 <div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
+</div>
+<br>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=anugrah-pal&locale=en&mode=daily&theme=github-dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br><br>
   <img src="https://github-readme-activity-graph-bay.vercel.app/graph?username=anugrah-pal&bg_color=0d1117&color=39d353&line=39d353&point=2ea043&area=true&area_color=0e4429&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
